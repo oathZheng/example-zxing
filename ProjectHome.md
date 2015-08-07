@@ -1,0 +1,1 @@
+Very simple Android project showing how we can use Barcode Scanner Intents to scan/generate a QR code
